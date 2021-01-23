@@ -1,2 +1,2 @@
-# Python
-This repo contains few projects I worked on (autonomously) in Python
+# Age Calculator
+This repo contains project titled Age Calculator in Python
