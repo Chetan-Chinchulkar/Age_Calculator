@@ -19,3 +19,6 @@ User has to input date,month & year of birth & then hit Calculate Age Button to 
 
 If done with everything right,you will get the present age in the format YY years,MM months, DD days.
 If any error occurs,it will be shown on the screen.
+
+#Exit
+There is a exit key for quiting out of the application .
